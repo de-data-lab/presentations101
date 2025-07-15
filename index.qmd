@@ -1,0 +1,14 @@
+---
+format: html
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+---
+
+Navigate to the following pages during the corresponding activities:
+
+* [Main Page](index.html)
+* [Activity 1: Understand Your Audience](audience.html)
+* [Activity 2: Applying the Principles](principles.html)
+* [Activity 3: Organize Your Presentation](organize.html)
+* [Activity 4: Putting it All Together](together.html)

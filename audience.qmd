@@ -1,0 +1,52 @@
+---
+format: html
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+---
+
+Navigate to the following pages during the corresponding activities:
+
+* [Main Page](index.html)
+* [Activity 1: Understand Your Audience](audience.html)
+* [Activity 2: Applying the Principles](principles.html)
+* [Activity 3: Organize Your Presentation](organize.html)
+* [Activity 4: Putting it All Together](together.html)
+
+# Understand Your Audience
+
+## Key Questions
+
+* Who is my audience?
+* What does my audience already know about the subject?
+* What does my audience need to know?
+* What questions will my audience have?
+* What’s the best outcome for my [organization]? What do I need to say to get this outcome?
+* What’s the best outcome for our audience? What do I need to say to get this outcome?
+
+## Example: A Grocery Store in Downtown Wilmington
+
+You are developing a presentation for officials in the City of Wilmington’s Office of Economic Development (OED).
+
+You believe that now is the appropriate time for the city to invest in development of a grocery store in Downtown Wilmington.
+
+
+| Questions                                                                                     | Response                                                                               |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Who is my audience?**                                                                       | Economic development leaders focused on growth, equity, and revitalization             |
+| **What does my audience already know about the subject?**                                     | They know food access is a gap, and past projects have struggled                       |
+| **What does my audience need to know?**                                                       | That this time is different - there’s demand, a viable market, and strategic alignment |
+| **What questions will my audience have?**                                                     | Is there enough demand? Who’s the grocer? How do you serve everyone? What’s our role?  |
+| **What’s the best outcome for my [organization]? What do I need to say to get this outcome?** | Letter of support, site help, access to grants                                         |
+| **What’s the best outcome for our audience? What do I need to say to get this outcome?**      | A politically and economically impactful project that improves health and equity       |
+
+## Who is *your* audience?
+Consider the presentation that you came prepared with today.
+
+Answer the key questions about an audience archetype you were (or will be) presenting to as it relates to your presentation.
+
+
+## What about a *different* audience?
+Consider a different audience archetype that you might be likely to present the same presentation to. Adjust your responses to questions about this new audience archetype.
+
+How do your responses change?

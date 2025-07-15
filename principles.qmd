@@ -1,0 +1,82 @@
+---
+format: html
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+---
+
+Navigate to the following pages during the corresponding activities:
+
+* [Main Page](index.html)
+* [Activity 1: Understand Your Audience](audience.html)
+* [Activity 2: Applying the Principles](principles.html)
+* [Activity 3: Organize Your Presentation](organize.html)
+* [Activity 4: Putting it All Together](together.html)
+
+# Applying the Principles
+
+## The Pyramid of Communication
+
+![Pyramid of Communication](pyramid_of_communication.png)
+
+#### Key Takeaway: There should be a grocery store in Downtown Wilmington.
+We recommend developing a full-service grocery store in Downtown Wilmington because the area is underserved, economically primed for investment, and aligned with broader public and private revitalization efforts.
+
+#### Main Point #1: Market Demand: There is clear unmet need for grocery access
+* Downtown Wilmington is classified as a USDA-defined food desert
+* 10,000+ downtown corridor residents must travel over 1 mile for full-service groceries
+* Residents rely on corner stores / fast food, contributing to disproportionate diet-related illness
+
+
+#### Main Point #2: Viable Market: Downtown Wilmington is undergoing demographic and economic growth
+* Downtown residential units have grown by 28% since 2019, led by millennial professionals, retirees, and hybrid workers
+* Median household income has increased by 17%, with population density comparable to peer cities
+* Local employers have shown support for amenities aligned with live-work-play environments
+
+
+
+#### Main Point #3: Strategic Alignment: A grocery store supports broader city and state redevelopment goals
+* City of Wilmington’s 2023 Strategic Development Plan prioritizes mixed-use urban revitalization anchored by food, health, and transit
+* Downtown Development District Grant Program offers incentives for projects that promote equitable development and reduce retail vacancy
+* Public-private partnerships are building momentum for inclusive infrastructure
+
+#### Final Synthesis: There should be a grocery store in Downtown Wilmington. 
+* The market exists.
+* The population is ready.
+* Development aligns with public goals.
+
+
+### Principle 1: Mutually Exclusive, Collectively Exhaustive
+**Mutually Exclusive:** Each main point or piece of evidence is distinctly different.
+
+**Collectively Exhaustive:** Together, they make a complete whole.
+
+![MECE Principle](MECE_principle.png)
+
+
+### Principle 2: Summarize Up
+
+Ideas at any level of the pyramid must always be summaries of ideas grouped below them.
+
+![Summarize Principle](summarize_principle.png)
+
+
+### Principle 3: Logical Order
+
+1. **Chronologially:** in the order they happen
+2. **Structurally:** in natural groupings
+3. **Comparitively:** in order of importance
+4. **Deductive:** points build on each other
+5. **Inductive:** points draw same conclusion
+
+## Applying the Principles
+
+Review the Pyramid of Communication for developing a grocery store in Downtown Wilmington, Delaware.
+
+Reflect on how the Pyramid of Communication principles are applied:
+
+* The MECE principle
+* The Summarization principle
+* The Logical Order principle
+
+What changes would you make? Why?

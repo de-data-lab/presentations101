@@ -1,0 +1,65 @@
+---
+format: html
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+---
+
+Navigate to the following pages during the corresponding activities:
+
+* [Main Page](index.html)
+* [Activity 1: Understand Your Audience](audience.html)
+* [Activity 2: Applying the Principles](principles.html)
+* [Activity 3: Organize Your Presentation](organize.html)
+* [Activity 4: Putting it All Together](together.html)
+
+# Putting it All Together
+
+## The "So What?" Test
+
+* Does this concept add to my presentation?
+* What does the audience learn from this concept? Is this knowledge relevant for understanding my presentation?
+* Is the point of the concept clear, or is it too convoluted and vague?
+* If I removed this concept, would the meaning of my presentation change?
+* Is this point understandable for my audience based upon their level of knowledge?
+
+## Three Principles for Better Visuals
+
+1. Be intentional
+2. Reduce clutter
+3. Optimize for interpretability
+
+## Update Your Presentation
+Create a new version of the slide deck you came prepared with today. Follow these steps:
+
+* Review your audience checklist.
+* Review the Pyramid of Communication you developed. Update your slides to reflect any changes.
+* Review the slides considering the “So What?” test. Make any necessary changes.
+* Review the slides for any visuals. Make note of how they might need to change to better convey your message.
+
+
+## Present to a Group
+Finalize any additional changes.
+
+Provide a 2-3 minute abridged presentation to the individuals at your table. Ahead of the presentation, inform group members which audience this presentation would be intended for.
+
+Following each presentation, provide feedback to the presenter by considering the techniques discussed today in the provided rubric.
+
+### Feedback Rubric
+* **Audience**
+  * How well does the presentation address the needs of the presenter's stated audience?
+  * What do they do particularly well in relation to addressing their audience?
+  * What could be improved?
+  
+* **Narrative Flow**
+  * Does the presentation identify a key takeaway at the start of the presentation?
+  * Are the main points identified? Are they mututally exclusive and completely exhaustive?
+
+* **Details**
+  * Are the details provided additive to the presentation?
+  * Are there any details that are irrelevant or not understandable? How could these be improved?
+  
+* **Visuals**
+  * Are visuals clear and interpretable?
+  * Does the presenter explain them effectively?
+  * What improvements could be made?
